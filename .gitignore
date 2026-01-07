@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+.env
+.trae/
+.claude/
+.cursor/
+.DS_Store
+.env.test
+cache/
+artifacts/
+
